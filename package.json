@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "copy-webpack-plugin": "^5.0.3",
-    "preact-cli": "^2.2.1",
+    "preact-cli": "^3.5.0",
     "preact-cli-plugin-fast-async": "^1.0.1"
   },
   "dependencies": {
